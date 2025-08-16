@@ -29,7 +29,7 @@ export const seoPages = {
       name: "Manusri Events",
       description: "Professional magician and event entertainment services in Hyderabad",
       url: "https://manusrievents.com",
-      telephone: "+91-9848012345",
+      telephone: "+91-9666286965",
       address: {
         "@type": "PostalAddress",
         addressLocality: "Hyderabad",

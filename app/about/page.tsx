@@ -52,6 +52,7 @@ export default function AboutPage() {
 
   const serviceAreas = [
     "Hyderabad",
+    "Nalgonda",
     "Warangal",
     "Karimnagar",
     "Nizamabad",
@@ -62,6 +63,9 @@ export default function AboutPage() {
     "Tirupati",
     "Kurnool",
     "Nellore",
+    "Kerala",
+    "Karnataka",
+    "India"
   ]
 
   return (
